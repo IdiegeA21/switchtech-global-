@@ -1,0 +1,14 @@
+.sw-2{
+/* This are images that their height and width shoulfbe fixed. */
+    height: 100%;
+    width: 100%;
+}
+
+.sw-1{
+    /* This are divs that contain child images whose widths and height are to be fixed */
+
+}
+.sw-1 img{
+    height: 100%;
+    width: 100%;
+}
